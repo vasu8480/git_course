@@ -1,3 +1,3 @@
 # git_course
 
-# updated feature f2.
+# updating the feature f2.
