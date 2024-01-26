@@ -1,3 +1,3 @@
 # git_course
 
-# Hi all f2 from vasu.
+# Hi all f2.
